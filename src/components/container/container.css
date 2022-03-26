@@ -1,0 +1,52 @@
+.main-container
+{ background:-moz-linear-gradient(150deg, rgb(81, 156, 134) 31%, rgba(70, 188, 203, 1) 79%); 
+background:-webkit-linear-gradient(150deg, rgb(72, 170, 154) 31%, rgba(70, 188, 203, 1) 79%);
+background:-o-linear-gradient(150deg, rgb(63, 153, 133) 31%, rgba(70, 188, 203, 1) 79%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#46BCCB', endColorstr='#35C197', GradientType=1 );
+background:-ms-linear-gradient(150deg, rgb(69, 160, 133) 31%, rgba(70, 188, 203, 1) 79%);
+background:linear-gradient(150deg ,rgb(71, 160, 133) 31%, rgba(70, 188, 203, 1) 79%);
+height:550px;
+width:100%;
+margin:0px;
+padding:0px;
+}
+.first-text
+{ position: absolute;
+   height: 120px;
+  width: 656px;
+  left: 76px;
+  top:220px;
+}
+.first-text h2
+{
+  color:whitesmoke;
+ font-weight: bold;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif
+}
+.stores
+{
+  position: absolute;
+  display: inline-flex;
+}
+.play_store
+{
+  position: relative;
+  top:50vh;
+}
+.google_logo
+{
+  height:15vh;
+}
+.apple_logo
+{
+  height:22vh;
+}
+@media screen and  (min-widht:300px)
+{
+  .first-text{
+    font-size: 10px;
+
+  }
+}
+  
+

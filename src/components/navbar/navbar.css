@@ -1,0 +1,19 @@
+.navbartext li 
+{
+    text-decoration: none;
+    font-size: 15px;
+    margin:5px;
+    list-style: none;
+    display: inline;
+    color:rgb(124, 119, 113)
+    
+}
+.navbartext
+{
+    padding-left:65vw
+}
+.navbartext li:hover
+{
+    color:rgb(125, 197, 197);
+    cursor: pointer;
+}

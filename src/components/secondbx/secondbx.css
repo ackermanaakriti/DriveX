@@ -1,0 +1,27 @@
+.second_part
+{
+
+margin-top: 20px;
+margin-left:50vh;
+
+}
+.para_text
+{
+    height: 100px;
+width: 700px;
+left: 344px;
+top: 980px;
+
+}
+.myCards
+{ 
+    display: inline-flex;
+}
+@media screen and (min-widht:200px) {
+    .second_part
+    {
+        color:red;
+        margin-left: 2px;
+    }
+    
+}

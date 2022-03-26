@@ -1,0 +1,7 @@
+.card_body
+{
+  height: fit-content;
+  border:none;
+  margin:5px;
+  text-align: center;
+}
