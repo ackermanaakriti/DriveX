@@ -17,11 +17,12 @@ top: 980px;
 { 
     display: inline-flex;
 }
-@media screen and (min-widht:200px) {
+@media  only screen and (min-widht:500px) {
     .second_part
     {
         color:red;
         margin-left: 2px;
+        background: #000;
     }
     
 }

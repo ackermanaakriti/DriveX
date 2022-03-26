@@ -14,7 +14,7 @@ function Container() {
         Find your ideal driving instructor .In minutes.Book, reshedule and cancel lessions on the go</p>
       </div>
       <div className="stores">
-      <div className='play_store'> <img  className="apple_logo" src={apple} /></div>
+      <div  className='play_store'> <img  className="apple_logo" src={apple} /></div>
       <div className='play_store'> <img className="google_logo" src={google}/></div>
       </div>
     </div>
